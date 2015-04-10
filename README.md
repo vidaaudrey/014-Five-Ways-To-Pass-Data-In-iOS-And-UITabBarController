@@ -10,10 +10,11 @@
 * Explore TabBar and UITabBarController, including custom icon, system icon, badge, and “More” icon
 * Keep consistent UIView in different orientation   
 
-UICollectionView
 
-![Snapshot 1](https://github.com/vidaaudrey/014-Five-Ways-To-Pass-Data-In-iOS-And-UITabBarController/blob/master/_snapshort/snapshot.gif)
-![Snapshot 1](https://github.com/vidaaudrey/014-Five-Ways-To-Pass-Data-In-iOS-And-UITabBarController/blob/master/_snapshort/snapshot0.png)
+
+![Swift Snapshot](https://github.com/vidaaudrey/014-Five-Ways-To-Pass-Data-In-iOS-And-UITabBarController/blob/master/_snapshot/snapshot.gif)
+![Swift Snapshot](https://github.com/vidaaudrey/014-Five-Ways-To-Pass-Data-In-iOS-And-UITabBarController/blob/master/_snapshot/snapshot0.png)
+
 
 
 
